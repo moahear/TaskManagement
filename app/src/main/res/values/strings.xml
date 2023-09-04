@@ -7,4 +7,5 @@
     <string name="write_new_task">نوشتن کار جدید</string>
     <string name="save">ذخیره</string>
     <string name="cancel">لغو</string>
+    <string name="show_write_new_task">لطفا کار جدید را بنویسید</string>
 </resources>

@@ -9,7 +9,7 @@ class PresenterMainActivity(
     private val model: ModelMainActivity
 ) : BaseLifecycle {
     override fun onCreate() {
-
+        addNewTask()
     }
 
     override fun onDestroy() {
@@ -19,5 +19,7 @@ class PresenterMainActivity(
     override fun onStop() {
 
     }
-
+    fun addNewTask(){
+        view.showAddNewTaskDialog()
+    }
 }
