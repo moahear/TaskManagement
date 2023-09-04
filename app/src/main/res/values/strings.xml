@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Task Management</string>
+    <string name="task_management">مدیریت کارها</string>
+    <string name="finished">انجام شده</string>
+    <string name="not_finished">انجام نشده</string>
+    <string name="new_task">کار جدید</string>
+    <string name="write_new_task">نوشتن کار جدید</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">لغو</string>
 </resources>

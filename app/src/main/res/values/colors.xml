@@ -6,4 +6,5 @@
     <color name="main">#3B378E</color>
     <color name="line">#FF9800</color>
     <color name="white_back">#F0F3FF</color>
+    <color name="text_black">#FF000000</color>
 </resources>
